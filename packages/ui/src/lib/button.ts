@@ -1,0 +1,1 @@
+export const button = () => console.log('button')
